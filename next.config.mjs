@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/my-next-portfolio', // Set this to your repository name
+    output: 'export',
+    basePath: '/my-next-portfolio', // Make sure to set this to your repository name
 };
 
 export default nextConfig;
