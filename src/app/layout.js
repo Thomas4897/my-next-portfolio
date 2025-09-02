@@ -16,6 +16,7 @@ export default function RootLayout({ children }) {
                         <Link className="nav-link" href="/Contact">Contact</Link>
                     </div>
                     <div className="nav-social-link-cont">
+                        Test
                         <a
                             className="nav-link"
                             href="https://github.com/Thomas4897"
